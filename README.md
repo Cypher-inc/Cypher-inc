@@ -4,11 +4,13 @@ I am a passionate FrontEnd developer and I really enjoy working on projects and 
 
 ![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-inc&show_icons=true&theme=radical) -->
 
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">I am a passionate FrontEnd developer and I really enjoy working on projects and building websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypher-inc&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-inc" /> </p>
 
+<h3>About Me:</h3>
 - 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **React, Firebase**
@@ -33,6 +35,6 @@ I am a passionate FrontEnd developer and I really enjoy working on projects and 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cypher-inc&show_icons=true&locale=en&layout=compact" alt="cypher-inc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypher-inc&show_icons=true&locale=en" alt="cypher-inc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cypher-inc&show_icons=true&locale=en" alt="cypher-inc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypher-inc&" alt="cypher-inc" /></p>
