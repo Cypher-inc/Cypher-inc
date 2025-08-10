@@ -6,17 +6,15 @@ I am a passionate FrontEnd developer and I really enjoy working on projects and 
 
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi, I'm Kris</h1>
-<h3 align="center">I am a passionate FrontEnd developer and I really enjoy working on projects and building websites</h3>
+<h3 align="center">I'm ML-driven Data Analyst who loves solving problems, building models, and creating impactful data solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypher-inc&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-inc" /> </p>
 <h3>About Me:</h3>
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Solving Real World Problems using ML**
 
-- 🌱 I’m currently learning **React, Firebase**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cypher-inc](https://github.com/Cypher-inc)
-
-- 📫 How to reach me **victorynorden@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
